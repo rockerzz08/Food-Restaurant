@@ -19,9 +19,7 @@
             text-align: center;
             justify-content: center;
             overflow: hidden;
-        
-        
-        }
+           }
        .parent ul{
         display: inline-flex;
         list-style: none;
@@ -67,7 +65,6 @@
         background-color: gray;
         border-radius: 2px;
        }
-
         .image{
             background-image:url("https://images01.nicepagecdn.com/cd46d0ff82086185e4d7aa0f/983dd5d6893c550588ea7cff/coupon_28_sp23-1800-4df8.jpg");
             width: 100%;
@@ -79,15 +76,12 @@
             position:absolute;
             padding: 0px;
             justify-content:right 10px;
-        
-        }
+         }
         .body1{
             width: 110%;
             height: 1000px;
             margin-right: 20px;
-            
-            
-        }
+            }
         .image5{
             width: 100%;
             height: 1000px;
@@ -100,7 +94,6 @@
             height: 70px;
             padding: 30px;
         }
-       
         .heading-container{
             padding: 10px;
             position:relative;
@@ -119,25 +112,20 @@
                 border-radius: 100%;
                 border-color: black 10px;
             }
-        
-      .body1{
+         .body1{
             height: 150px;
              width: 250px;
              margin-left: 50px;
              border-radius: 10px;
              border: black 10px ; 
-            
-            
-        }
+              }
         .body2{
             height: 150px;
              width: 250px;
              margin-top: -150px;
              margin-left: 350px;
              border:  black 10px;
-             
-             
-        }
+              }
         .body3{
             height: 80px;
              width: 280px;
@@ -151,10 +139,8 @@
              margin-left: 950px;
            margin-top: -100px;
            border: black 10px;
-        }
-
-      
-       .container .heading-container{
+        }  
+        .container .heading-container{
         color: white;
        }
        .matter-container{
@@ -177,14 +163,11 @@
        .h5{
         text-align: justify;
        }
-       
-       
-       #img{
+         #img{
         border-radius: 5px;
         cursor: pointer;
         transition: 0.3s;
-        
-       }
+         }
        #img:hover{
         opacity: 0.7;
         border-color: rgb(5, 5, 5);
@@ -214,35 +197,30 @@
         .content:hover{
             position: relative;
             justify-content: center;
-        
-            text-decoration: red;
+           text-decoration: red;
             text-align: center;
             color: white;
         }
         .content1:hover{
             position: relative;
-    
             text-decoration: red;
             text-align: center;
             color: white;
         }
         .content2:hover{
             position: relative;
-            
             text-decoration: red;
             text-align: center;
             color:white;
         }
         .content3:hover{
             position: relative;
-            
-            text-decoration: red;
+           text-decoration: red;
             text-align: center;
             color:white;
         }
         .content4:hover{
             position: relative;
-        
             text-transform: unset;
             text-decoration: red;
             text-align: center;
@@ -254,15 +232,13 @@
         height: 120px;
         border-radius: 5px;
         margin-top: 29%;
-       
-        }
+      }
         .icon{
         display: inline-block;
         }
         #logo{
             margin-top: 10px;
-            
-            width: 30px;
+             width: 30px;
             position: relative;
             height: 30px;
             border-radius: 30px;
@@ -317,8 +293,7 @@
             <img src="https://csite.nicepage.com/Images/logo-w.png" alt="">
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           &nbsp; &nbsp; &nbsp; &nbsp; 
-           
-          <ul>
+            <ul>
             <li class="list">Download</li>
             <li class="list">400+ Feutures</li>
             <li class="list">10000+ Templates▾
@@ -441,8 +416,7 @@
             <img id="img" src="https://images01.nicepagecdn.com/page/10/07/website-design-100768.jpg" alt=""> See Found Menu<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/13/98/website-design-139887.jpg" alt="">Gallary Food<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/20/67/website-design-2067546.jpg" alt="">Coffee Ceromones<br><br>
-             
-        </div>
+          </div>
     </div>
     <div class="mainbody">
         <div class="body2">
@@ -457,8 +431,7 @@
             <img id="img" src="https://images01.nicepagecdn.com/page/61/02/website-design-61028.jpg" alt="">Be Better Then Yourself<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/38/01/website-design-38011.jpg" alt="">Eating Essential  For Food<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/92/46/website-design-92461.jpg" alt="">Cakes And Sweats
-            
-        </div>
+             </div>
     </div>
     <div class="mainbody">
             <div class="body3">
@@ -470,8 +443,7 @@
             <img id="img" src="https://images01.nicepagecdn.com/page/76/47/website-design-76470.jpg" alt="">Breakfast Smoothie.. <br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/76/45/website-design-76457.jpg" alt=""> Healthy Eating..<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/17/54/website-design-175480.jpg" alt=""><br><br> Coconut Cocktails..
-            
-        </div>
+             </div>
     </div>
     <div class="mainbody">
         <div class="body4">
@@ -481,20 +453,17 @@
             <img id="img" src="https://images01.nicepagecdn.com/page/27/59/website-design-2759407.jpg" alt="">COme to Ice Cafe<br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/81/87/website-design-81871.jpg" alt="">Italian Recieps.<br><br><br>
             <img id="img" src="https://images01.nicepagecdn.com/page/29/73/website-design-29734.jpg" alt="">Finest Grill House Restuarent.<br><br>
-            
-        </div>
+              </div>
     </div>
-
-        <div class="matter-container">
+   <div class="matter-container">
             <center><h1>Food & Restaurant Website Templates</h1><br><br></center>
             <h5> &nbsp;&nbsp;&nbsp; The Food & Restaurant Website Templates are also available for unlimited downloads. If you only now start selling, the responsive restaurant template is to help you. Find the best free restaurant website templates on Nicepage. With WordPress plugins, you can do things you've never even thought. Business WordPress themes are equipped with all the necessary sections you might need in a website's functionality. You can put an online ordering system on one page, sound effects, food menu, and restaurant menu on another, also. Don't forget about the landing pages either. The HTML restaurant templates use a creative design that will differentiate you from the competitors. A fully responsive one page restaurant website template based on Bootstrap 4, allows anyone to create beautiful professional websites in minutes. Free WordPress themes with responsive web design include practical premium plugins. Responsive restaurant menu templates allow you to display your content intuitively. Download from our site bistro HTML template, restaurant online ordering HTML template, layout for the food menu, ordering system template, HTML restaurant template with video assets, food delivery template with colorful design, cake shop responsive website template, and so on. Like a cafe and restaurant template, food online ordering allows you to install a demo version with a single click food delivery wtih reservation form. </h5><br>
 
-             <h5>&nbsp;&nbsp;&nbsp;   By choosing HTML template restaurant website templates, you will impress and anticipate the expectations of your restaurant's cafe visitors and customers! HTML templates fully developed with the latest web design trends. The HTML restaurant templates use a creative design that will differentiate you from the competitors. Restaurant HTML templates guarantee a responsive website displays on a variety of devices and have everything you need to create food website templates. A responsive HTML website looks amazing on any device, especially with effects templates. If you are looking for top responsive restaurant website templates, you can find them on our website. You can give your fans an interesting experience with restaurants html5 website templates 2022. Explore popular categories of responsive restaurant templates, where will be stunning video backgrounds and innovative parallax effects. Elixir restaurant HTML layout with an editor makes it easy to create or customize pages because it uses advanced Drag and Drop technology. Responsive HTML gourmet restaurant and food template have several demonstrations, each of which is imported in a mouse press. </h5><br>
+ <h5>&nbsp;&nbsp;&nbsp;   By choosing HTML template restaurant website templates, you will impress and anticipate the expectations of your restaurant's cafe visitors and customers! HTML templates fully developed with the latest web design trends. The HTML restaurant templates use a creative design that will differentiate you from the competitors. Restaurant HTML templates guarantee a responsive website displays on a variety of devices and have everything you need to create food website templates. A responsive HTML website looks amazing on any device, especially with effects templates. If you are looking for top responsive restaurant website templates, you can find them on our website. You can give your fans an interesting experience with restaurants html5 website templates 2022. Explore popular categories of responsive restaurant templates, where will be stunning video backgrounds and innovative parallax effects. Elixir restaurant HTML layout with an editor makes it easy to create or customize pages because it uses advanced Drag and Drop technology. Responsive HTML gourmet restaurant and food template have several demonstrations, each of which is imported in a mouse press. </h5><br>
                 
-              <h5>&nbsp;&nbsp;&nbsp;  Popular categories of website templates are restaurant web templates. coffee shop, fast food restaurant template, food delivery service, cafe, and restaurant owners have the opportunity with refined and mouthwatering web design assets to make a good bid. The cafe and restaurant design templates focus on versatility and ease of use for developers and end-users alike. Restaurant website template available for unlimited downloads. If you only now start selling, restaurant template and food website are to help you. Compared to real estate site templates, restaurants & cafes templates look appetite. Modern cafe and restaurant website online templates compatible with portable devices and all web browsers. A bootstrap modern restaurant HTML template can impress the target audience. A responsive restaurant HTML template comes with an unusual drag-and-drop constructor.</h5>
+   <h5>&nbsp;&nbsp;&nbsp;  Popular categories of website templates are restaurant web templates. coffee shop, fast food restaurant template, food delivery service, cafe, and restaurant owners have the opportunity with refined and mouthwatering web design assets to make a good bid. The cafe and restaurant design templates focus on versatility and ease of use for developers and end-users alike. Restaurant website template available for unlimited downloads. If you only now start selling, restaurant template and food website are to help you. Compared to real estate site templates, restaurants & cafes templates look appetite. Modern cafe and restaurant website online templates compatible with portable devices and all web browsers. A bootstrap modern restaurant HTML template can impress the target audience. A responsive restaurant HTML template comes with an unusual drag-and-drop constructor.</h5>
         </div><br>
-   
-        <div class="end">
+   <div class="end">
             <div class="content">
                <br><h2> Company</h2><br>
                 <ul>
